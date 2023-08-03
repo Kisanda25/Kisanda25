@@ -26,4 +26,12 @@ Welcome! I'm Emmanuel Kisanda, a full stack Software Engineer. Proficient in Jav
 
 <details>
  <summary><h3>👨‍💻 Emmanuel's Coding Journey</h3></summary>
-   I started my coding journey as a Electrical and Electronic engineering student with a passion to learn everything I could about this Tech world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   I am a highly motivated and detail-oriented software engineering student with a passion for problem-solving. After completing
+two years of Electrical and Electronic Engineering at Stellenbosch University, where I gained a solid foundation in university
+mathematics, computer science and computer systems, I developed a strong interest in programming and problem-solving.
+Despite facing financial challenges that prevented me from completing my studies in Electrical and Electronic Engineering, I
+was fortunate enough to secure a sponsorship to study software engineering. During my studies, I have gained valuable
+experience in a range of programming languages, including C, Python, and Java. I have also developed skills in Git, scripting,
+and software development methodologies.
+I am eager to continue expanding my knowledge and skills in software engineering, and I am excited about the opportunity to
+learn ES6, MySQL, TypeScript, web servers, DevOps, Unix, and other cutting-edge technologies in the field.
