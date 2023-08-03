@@ -33,5 +33,4 @@ Despite facing financial challenges that prevented me from completing my studies
 was fortunate enough to secure a sponsorship to study software engineering. During my studies, I have gained valuable
 experience in a range of programming languages, including C, Python, and Java. I have also developed skills in Git, scripting,
 and software development methodologies.
-I am eager to continue expanding my knowledge and skills in software engineering, and I am excited about the opportunity to
-learn ES6, MySQL, TypeScript, web servers, DevOps, Unix, and other cutting-edge technologies in the field.
+I am eager to continue expanding my knowledge and skills in software engineering, and I am currently developing my skills in ES6, MySQL, TypeScript, web servers, DevOps, Unix, and other cutting-edge technologies in the field.
